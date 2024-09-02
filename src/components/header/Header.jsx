@@ -11,7 +11,7 @@ export const Header = () => {
         gap={3}
         className="btns justify-content-center flex-md-row"
       >
-        Category Buttons
+        Category Butons
       </Stack>
     </Container>
   );

@@ -20,7 +20,7 @@ const ProductsList = () => {
       <Header handleCategories={handleCategories} categories={categories} />
 
       <Form.Control
-        placeholder="Search Produc..."
+        placeholder="Search Product..."
         type="search"
         className="w-50 m-auto"
         onChange={handleSearch}
